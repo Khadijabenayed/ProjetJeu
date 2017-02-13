@@ -9,7 +9,7 @@ import java.rmi.Naming;
 import java.util.Date;
 
 public class Client {
-
+//clientttttt
 	public static void main(String[] args) {// throws MalformedURLException,
 											// RemoteException,
 											// NotBoundException,
