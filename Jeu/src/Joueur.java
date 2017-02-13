@@ -8,8 +8,8 @@ public class Joueur extends Personne implements Serializable {
 		this.mdp = mdp;
 		this.nbreDePtDeVieCourant = 10;
 		this.nbreDePtDeVieMax = 10;
-		this.numPieceCourante=1;
-        
+		this.numPieceCourante = 1;
+
 	}
 
 }

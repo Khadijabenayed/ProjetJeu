@@ -8,6 +8,7 @@ public interface ServeurDeJeu extends Remote{
 	public Joueur getJoueur(String login,String mdp)throws RemoteException;
 	public void setJoueur(Joueur j)throws RemoteException;
 	public int seDeplacer(Joueur joueur,char porte)throws RemoteException;
+
 	
 	
 }
